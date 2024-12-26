@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="3" time="34.872" timestamp="2024-08-17T20:28:27.415613+05:30" hostname="HarshithaN-LT156"><testcase classname="tests.test_e2e.TestOne" name="test_e2e" time="20.340"><failure message="AssertionError: assert 'Happy! Thank you!' in '×\nSuccess! Thank you! Your order will be delivered in next few weeks :-).'">self = &lt;PythonSelfFramework.tests.test_e2e.TestOne object at 0x00000249FDD2A5A0&gt;
+
+    def test_e2e(self):
+        log = self.getLogger()
+        homePage = HomePage(self.driver)
+        checkOutPage = homePage.shopItems()
+        time.sleep(5)
+        log.info("getting all the phone details")
+        phones = checkOutPage.PhoneItem()
+        for phone in phones:
+            item = phone.text
+            log.info(item)
+            if item == "Nokia Edge":
+                addtoCart = checkOutPage.ButtonAdd(phone)
+                addtoCart.click()
+    
+        checkOutPage.CheckoutButton().click()
+        confirmPage = checkOutPage.CheckoutButton1()
+        time.sleep(5)
+        confirmPage.SelectCountries().send_keys("Ind")
+        # time.sleep(5)
+        self.VerifyPresence("India")  # explicit wait
+        countries = confirmPage.ListCountries()
+        for country in countries:
+            if country.text == 'India':
+                country.click()
+                break
+    
+        confirmPage.Validates().get_attribute("value")
+        confirmPage.Purchases().click()
+        print(confirmPage.Alerts().text)
+    
+        # or
+    
+        SuccessText = confirmPage.Successes().text
+        log.info("Text received after purchase" +SuccessText)
+&gt;       assert "Happy! Thank you!" in SuccessText
+E       AssertionError: assert 'Happy! Thank you!' in '×\nSuccess! Thank you! Your order will be delivered in next few weeks :-).'
+
+tests\test_e2e.py:52: AssertionError</failure></testcase><testcase classname="tests.test_homePage.TestTwo" name="test_homePage[getData0]" time="8.318" /><testcase classname="tests.test_homePage.TestTwo" name="test_homePage[getData1]" time="5.790" /></testsuite></testsuites>

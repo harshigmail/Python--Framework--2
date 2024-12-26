@@ -1,0 +1,44 @@
+ 2024-12-18 17:53:42,860 : INFO : test_case1 : storing all the usernames 
+ 2024-12-18 17:53:45,710 : INFO : test_case1 : storing all the categories 
+ 2024-12-18 17:53:48,345 : INFO : test_case1 : Text received after postShared 
+ 2024-12-18 17:54:35,609 : INFO : test_case2 : storing all the usernames 
+ 2024-12-18 17:54:54,884 : INFO : test_case2 : Preview element is visible 
+ 2024-12-18 17:54:59,783 : INFO : test_case2 : Posted Successfully 
+ 2024-12-18 17:55:45,011 : INFO : test_case3 : storing all the usernames1 
+ 2024-12-18 17:55:56,368 : INFO : test_case3 : storing all the usernames2 
+ 2024-12-18 17:56:00,017 : INFO : test_case3 : storing all the Categories 
+ 2024-12-18 17:56:02,450 : INFO : test_case3 : Posted Successfully 
+ 2024-12-26 12:37:24,580 : INFO : test_case1 : storing all the usernames 
+ 2024-12-26 12:37:27,527 : INFO : test_case1 : storing all the categories 
+ 2024-12-26 12:37:30,178 : INFO : test_case1 : Text received after postShared 
+ 2024-12-26 12:38:22,241 : INFO : test_case2 : storing all the usernames 
+ 2024-12-26 12:39:56,727 : INFO : test_case3 : storing all the usernames1 
+ 2024-12-26 12:40:08,087 : INFO : test_case3 : storing all the usernames2 
+ 2024-12-26 12:40:11,619 : INFO : test_case3 : storing all the Categories 
+ 2024-12-26 12:40:14,128 : INFO : test_case3 : Posted Successfully 
+ 2024-12-26 12:44:24,205 : INFO : test_case2 : storing all the usernames 
+ 2024-12-26 13:35:45,268 : INFO : test_case1 : storing all the usernames 
+ 2024-12-26 13:35:48,052 : INFO : test_case1 : storing all the categories 
+ 2024-12-26 13:35:50,427 : INFO : test_case1 : Text received after postShared 
+ 2024-12-26 13:36:46,295 : INFO : test_case2 : storing all the usernames 
+ 2024-12-26 13:38:29,376 : INFO : test_case3 : storing all the usernames1 
+ 2024-12-26 13:38:40,709 : INFO : test_case3 : storing all the usernames2 
+ 2024-12-26 13:38:44,332 : INFO : test_case3 : storing all the Categories 
+ 2024-12-26 13:38:46,918 : INFO : test_case3 : Posted Successfully 
+ 2024-12-26 13:50:18,772 : INFO : test_case1 : storing all the usernames 
+ 2024-12-26 13:50:21,706 : INFO : test_case1 : storing all the categories 
+ 2024-12-26 13:50:24,450 : INFO : test_case1 : Text received after postShared 
+ 2024-12-26 13:51:09,336 : INFO : test_case2 : storing all the usernames 
+ 2024-12-26 14:01:51,252 : INFO : test_case1 : storing all the usernames 
+ 2024-12-26 14:01:53,986 : INFO : test_case1 : storing all the categories 
+ 2024-12-26 14:01:56,346 : INFO : test_case1 : Text received after postShared 
+ 2024-12-26 14:02:40,892 : INFO : test_case2 : storing all the usernames 
+ 2024-12-26 14:04:12,539 : INFO : test_case3 : storing all the usernames1 
+ 2024-12-26 14:04:23,771 : INFO : test_case3 : storing all the usernames2 
+ 2024-12-26 14:04:27,213 : INFO : test_case3 : storing all the Categories 
+ 2024-12-26 14:04:29,438 : INFO : test_case3 : Posted Successfully 
+ 2024-12-26 14:10:02,438 : INFO : test_case1 : storing all the usernames 
+ 2024-12-26 14:10:05,202 : INFO : test_case1 : storing all the categories 
+ 2024-12-26 14:10:07,649 : INFO : test_case1 : Text received after postShared 
+ 2024-12-26 19:28:22,431 : INFO : test_case1 : Store all the usernames 
+ 2024-12-26 19:28:25,014 : INFO : test_case1 : Radio button is selected successfully 

@@ -1,0 +1,28 @@
+ 2024-08-15 13:56:36,248 : INFO : test_e2e : getting all the phone details 
+ 2024-08-15 13:56:36,324 : INFO : test_e2e : iphone X 
+ 2024-08-15 13:56:36,348 : INFO : test_e2e : Samsung Note 8 
+ 2024-08-15 13:56:36,374 : INFO : test_e2e : Nokia Edge 
+ 2024-08-15 13:56:36,486 : INFO : test_e2e : Blackberry 
+ 2024-08-15 13:56:47,304 : INFO : test_e2e : Text received after purchase×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-08-15 14:02:48,498 : INFO : test_e2e_part2 : FirstNameRahul 
+ 2024-08-15 14:02:49,252 : INFO : test_e2e_part2 : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-15 14:02:54,711 : INFO : test_e2e_part2 : FirstNameLak 
+ 2024-08-15 14:02:54,711 : INFO : test_e2e_part2 : FirstNameLak 
+ 2024-08-15 14:02:55,709 : INFO : test_e2e_part2 : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-15 14:02:55,709 : INFO : test_e2e_part2 : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-15 14:04:51,777 : INFO : test_homePage : FirstNameRahul 
+ 2024-08-15 14:04:52,388 : INFO : test_homePage : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-15 14:04:57,822 : INFO : test_homePage : FirstNameLak 
+ 2024-08-15 14:04:57,822 : INFO : test_homePage : FirstNameLak 
+ 2024-08-15 14:04:58,647 : INFO : test_homePage : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-15 14:04:58,647 : INFO : test_homePage : ×
+Success! The Form has been submitted successfully!. 
+ 2024-08-25 12:22:56,458 : INFO : test_homePage : First Name is Lak 
+ 2024-08-25 12:22:57,422 : INFO : test_homePage : ×
+Success! The Form has been submitted successfully!. 

@@ -1,0 +1,9 @@
+ 2024-08-04 21:14:11,748 : INFO : PyTestDemo.BaseClass : Rahul 
+ 2024-08-04 21:14:11,748 : INFO : PyTestDemo.BaseClass : Rahul 
+ 2024-08-04 21:14:58,780 : INFO : PyTestDemo.BaseClass : Rahul 
+ 2024-08-04 21:14:58,780 : INFO : PyTestDemo.BaseClass : Rahul 
+ 2024-08-04 21:16:01,871 : INFO : PyTestDemo.BaseClass : ['Rahul', 'shetty', 'rahulshetty.com'] 
+ 2024-08-04 21:16:01,871 : INFO : PyTestDemo.BaseClass : ['Rahul', 'shetty', 'rahulshetty.com'] 
+ 2024-08-04 21:18:43,193 : INFO : test_user_profile : ['Rahul', 'shetty', 'rahulshetty.com'] 
+ 2024-08-04 21:19:02,700 : INFO : test_user_profile : ['Rahul', 'shetty', 'rahulshetty.com'] 
+ 2024-08-04 21:19:58,553 : INFO : test_user_profile : ['Rahul', 'shetty', 'rahulshetty.com'] 

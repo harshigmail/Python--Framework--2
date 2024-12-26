@@ -1,0 +1,8 @@
+ 2024-08-04 21:00:41,930 : INFO : PyTestDemo.test_Logging : info statements 
+ 2024-08-04 21:00:41,930 : WARNING : PyTestDemo.test_Logging : warning message 
+ 2024-08-04 21:00:41,930 : ERROR : PyTestDemo.test_Logging : A major error 
+ 2024-08-04 21:00:41,930 : CRITICAL : PyTestDemo.test_Logging :  
+ 2024-08-04 21:19:58,567 : INFO : PyTestDemo.test_Logging : info statements 
+ 2024-08-04 21:19:58,567 : WARNING : PyTestDemo.test_Logging : warning message 
+ 2024-08-04 21:19:58,567 : ERROR : PyTestDemo.test_Logging : A major error 
+ 2024-08-04 21:19:58,567 : CRITICAL : PyTestDemo.test_Logging :  
