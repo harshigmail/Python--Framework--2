@@ -42,3 +42,5 @@
  2024-12-26 14:10:07,649 : INFO : test_case1 : Text received after postShared 
  2024-12-26 19:28:22,431 : INFO : test_case1 : Store all the usernames 
  2024-12-26 19:28:25,014 : INFO : test_case1 : Radio button is selected successfully 
+ 2024-12-26 20:16:45,901 : INFO : test_case1 : Store all the usernames 
+ 2024-12-26 20:16:48,448 : INFO : test_case1 : Radio button is selected successfully 
